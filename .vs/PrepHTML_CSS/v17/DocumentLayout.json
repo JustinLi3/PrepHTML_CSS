@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\TextStyles.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TextStyles.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRACTICE_3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TextStyles.html",
+              "DocumentMoniker": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\TextStyles.html",
+              "RelativeDocumentMoniker": "TextStyles.html",
+              "ToolTip": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\TextStyles.html",
+              "RelativeToolTip": "TextStyles.html",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-11T19:55:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PRACTICE_3.html",
               "DocumentMoniker": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_3.html",
               "RelativeDocumentMoniker": "PRACTICE_3.html",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "PRACTICE_3.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-11T19:23:26.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T19:23:26.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PRACTICE_2.html",
               "DocumentMoniker": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_2.html",
               "RelativeDocumentMoniker": "PRACTICE_2.html",
@@ -63,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Buttons.html",
               "DocumentMoniker": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\Buttons.html",
               "RelativeDocumentMoniker": "Buttons.html",
@@ -75,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PRACTICE_1.html",
               "DocumentMoniker": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_1.html",
               "RelativeDocumentMoniker": "PRACTICE_1.html",
@@ -87,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Basics.html",
               "DocumentMoniker": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\Basics.html",
               "RelativeDocumentMoniker": "Basics.html",
