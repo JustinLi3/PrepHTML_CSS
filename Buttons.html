@@ -6,21 +6,48 @@
     <title></title> 
   <style>
     button {
-      background-color: red;  
+      height: 36px;
+      cursor: pointer;
+    }
+    .subscribe{
+      background-color: rgb(186, 23, 23);  
       color:white;  
       border:none;
-      height: 30px;  
-      width: 105px;
+      width: 105px; 
+      border-radius:4px; 
+      margin-right:8px;
+    }
+    .join {
+      background-color: white;
+      color: rgb(33, 71, 163);
+      border: solid;
+      border-width: 1px;
+      border-radius: 2px;
+      border-color: rgb(33, 71, 163); 
+      width: 62px;  
+      margin-right:8px;
+    } 
+    .tweet{
+      background-color: rgb(17, 96, 173); 
+      color: white; 
+      border-radius: 18px; 
+      border:none; 
+      width: 70px; 
 
     }
   </style>
 </head>
 <body>
-  <button>
+  <button class="subscribe">
     SUBSCRIBE
-  </button> 
-  <button>
+  </button>  
+
+  <button class="join">
     JOIN
+  </button> 
+   
+  <button class="tweet">
+    Tweet
   </button>
 </body>
 </html>
