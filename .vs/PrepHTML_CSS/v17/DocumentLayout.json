@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRACTICE_1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triam\\Source\\Repos\\JustinLi3\\PrepHTML_CSS\\HTML_1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HTML_1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PRACTICE_1.html",
+              "DocumentMoniker": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_1.html",
+              "RelativeDocumentMoniker": "PRACTICE_1.html",
+              "ToolTip": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_1.html",
+              "RelativeToolTip": "PRACTICE_1.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-11T01:01:16.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HTML_1.html",
-              "DocumentMoniker": "C:\\Users\\Triam\\Source\\Repos\\JustinLi3\\PrepHTML_CSS\\HTML_1.html",
+              "DocumentMoniker": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\HTML_1.html",
               "RelativeDocumentMoniker": "HTML_1.html",
-              "ToolTip": "C:\\Users\\Triam\\Source\\Repos\\JustinLi3\\PrepHTML_CSS\\HTML_1.html",
+              "ToolTip": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\HTML_1.html",
               "RelativeToolTip": "HTML_1.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-05-10T23:30:30.988Z",
               "EditorCaption": ""
