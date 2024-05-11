@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\Buttons.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Buttons.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRACTICE_2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triam\\Source\\Repos\\JustinLi3\\PrepHTML_CSS\\Basics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRACTICE_1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\Buttons.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Buttons.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PRACTICE_2.html",
+              "DocumentMoniker": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_2.html",
+              "RelativeDocumentMoniker": "PRACTICE_2.html",
+              "ToolTip": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\PRACTICE_2.html",
+              "RelativeToolTip": "PRACTICE_2.html",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-11T01:31:08.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Buttons.html",
               "DocumentMoniker": "C:\\Users\\Triam\\source\\repos\\JustinLi3\\PrepHTML_CSS\\Buttons.html",
               "RelativeDocumentMoniker": "Buttons.html",
@@ -51,7 +68,8 @@
               "RelativeToolTip": "PRACTICE_1.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-11T01:01:16.93Z"
+              "WhenOpened": "2024-05-11T01:01:16.93Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,7 +81,8 @@
               "RelativeToolTip": "Basics.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-10T23:30:30.988Z"
+              "WhenOpened": "2024-05-10T23:30:30.988Z",
+              "EditorCaption": ""
             }
           ]
         }
